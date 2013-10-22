@@ -1,5 +1,5 @@
 @RestController
-class Example {
+class Minimal {
 	
 	@RequestMapping("/")
 	def helloWorld() {
