@@ -8,7 +8,7 @@ Sub-projects:
 *   minimal
 *   with-gradle
 
-_minimal_ can be built with `$ spring run Minimal.groovy`
+_minimal_ can be started with `$ spring run Minimal.groovy`
 
-_with-gradle_ can be built with `$ gradle build && java -jar build/libs/with-gradle-0.1.0.jar`
+_with-gradle_ can be started with `$ gradle build && java -jar build/libs/with-gradle-0.1.0.jar`
 
