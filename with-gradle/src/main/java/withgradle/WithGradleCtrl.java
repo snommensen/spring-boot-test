@@ -10,5 +10,4 @@ public class WithGradleCtrl {
     public String index() {
         return "Greetings from Spring Boot with Gradle!";
     }
-
 }

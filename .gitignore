@@ -1,6 +1,5 @@
+# Java Files #
 *.class
-
-# Package Files #
 *.jar
 *.war
 *.ear
@@ -9,8 +8,7 @@
 build
 .gradle
 
-# IntelliJ Files '
+# IntelliJ Files #
 *.iml
-out
 .idea
-
+out
